@@ -53,8 +53,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'inna'
-copyright = u'2019, fanbaoyu'
-author = u'fanbaoyu'
+copyright = u'2019, fanbaoyu,caoqichun'
+author = u'fanbaoyu,caoqichun'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
